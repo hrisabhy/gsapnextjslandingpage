@@ -21,7 +21,7 @@ export function SectionHero() {
       {
         rotate: 0,
       },
-      { rotate: 10 }
+      { rotate: 10, duration: 1 }
     );
 
     gsap.fromTo(
@@ -31,6 +31,7 @@ export function SectionHero() {
       },
       {
         rotate: -10,
+        duration: 1,
       }
     );
     gsap.fromTo(
