@@ -6,6 +6,7 @@ import CardImage3 from "/public/image-03.png";
 import CardImage4 from "/public/image-04.png";
 import CardImage5 from "/public/image-05.png";
 import CardImage6 from "/public/image-06.png";
+// https://youtu.be/lPKNdfG1sDQ?t=4248
 export function SectionCards() {
   return (
     <>
